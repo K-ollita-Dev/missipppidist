@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "/about",
+    "/families",
+    "/galery",
+    "/home",
+    "/inperson",
+    "/virtual",
+    "/waliki"
+  ]
+}
